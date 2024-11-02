@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cuaxin2\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|d:\\cuaxin2\\snakegame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|d:\\cuaxin2\\snakegame\\snakegame\\resources\\snake_body.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\resources\\snake_body.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|D:\\cuaxin2\\SnakeGame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|d:\\cuaxin2\\snakegame\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|d:\\cuaxin2\\snakegame\\snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B308B4A4-FFBD-43F4-B3E2-62FF1231FF60}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "snake_body.jpg",
+              "DocumentMoniker": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Resources\\snake_body.jpg",
+              "RelativeDocumentMoniker": "SnakeGame\\Resources\\snake_body.jpg",
+              "ToolTip": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Resources\\snake_body.jpg",
+              "RelativeToolTip": "SnakeGame\\Resources\\snake_body.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-02T05:32:49.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:27:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Program.cs",
+              "ToolTip": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeToolTip": "SnakeGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:26:03.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.cs [Design]",
+              "RelativeToolTip": "SnakeGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:39:03.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.Designer.cs",
+              "ToolTip": "D:\\cuaxin2\\SnakeGame\\SnakeGame\\Form1.Designer.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:23:17.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
